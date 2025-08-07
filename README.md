@@ -3,3 +3,7 @@ The target is to design a laser cut version of the OpenScan v2 as compatible as 
 <img width="754" height="831" alt="Render Front" src="https://github.com/user-attachments/assets/9ffa97e3-0304-4ff5-a745-e6d1dd432aff" />
 
 <img width="754" height="831" alt="Render Back" src="https://github.com/user-attachments/assets/69841900-917f-4c38-8161-7ae49c0b6bc6" />
+
+
+https://github.com/user-attachments/assets/5ea389da-0c89-478f-a3e9-0d0a2392479e
+
