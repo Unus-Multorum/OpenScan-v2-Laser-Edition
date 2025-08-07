@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 114 151" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-442.831,-350.079)">
+        <g id="RP02" transform="matrix(0.521446,0,0,1.05848,298.136,-0.0778436)">
+            <path d="M310.104,346.878L277.487,346.878L277.487,330.81L462.315,330.81L462.315,330.87L494.932,330.87L494.932,346.938L462.315,346.938L462.315,456.677L494.932,456.677L494.932,472.745L310.104,472.745L310.104,472.685L277.487,472.685L277.487,456.617L310.104,456.617L310.104,346.878Z" style="fill:rgb(0,218,255);"/>
+        </g>
+        <g transform="matrix(0.821537,0,0,0.821537,121.593,102.068)">
+            <g transform="matrix(12.1723,0,0,12.1723,410.645,478.7)">
+            </g>
+            <text x="393.92px" y="478.7px" style="font-family:'BigNoodleTitling';font-size:12.172px;fill:rgb(35,31,32);">RP01</text>
+        </g>
+    </g>
+</svg>
